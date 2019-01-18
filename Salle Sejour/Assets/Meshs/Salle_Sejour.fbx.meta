@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 6af5c49d2e7ff7649904b6c0349ff79a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.002
+    100006: Cube.003
+    100008: Cube.006
+    100010: Cube.007
+    100012: Cube.008
+    100014: Cube.009
+    100016: Cube.010
+    100018: Cube.011
+    100020: Cube.012
+    100022: Cube.013
+    100024: Cylinder
+    100026: Cylinder.001
+    100028: Group1
+    100030: Porte
+    100032: Porte.001
+    100034: Porte.002
+    100036: //RootNode
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.002
+    400006: Cube.003
+    400008: Cube.006
+    400010: Cube.007
+    400012: Cube.008
+    400014: Cube.009
+    400016: Cube.010
+    400018: Cube.011
+    400020: Cube.012
+    400022: Cube.013
+    400024: Cylinder
+    400026: Cylinder.001
+    400028: Group1
+    400030: Porte
+    400032: Porte.001
+    400034: Porte.002
+    400036: //RootNode
+    2100000: default
+    2100002: Murs
+    2100004: Sol
+    2100006: Embrasure
+    2100008: Bar2
+    2100010: Bar1
+    2100012: Cadre_Fenetre
+    2100014: No Name
+    2100016: Grille_Fenetre
+    2100018: Vitre
+    2100020: "Lampe_R\xE9ceptacle"
+    2100022: Ampoule1
+    2100024: Ampoule2
+    2100026: Abajour
+    2100028: CommodeBois
+    2100030: Porte_Cadre
+    2100032: Porte2
+    2100034: Poignee Porte
+    2100036: Bas_Murs
+    2100038: Plafond
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cube.006
+    2300010: Cube.007
+    2300012: Cube.008
+    2300014: Cube.009
+    2300016: Cube.010
+    2300018: Cube.011
+    2300020: Cube.012
+    2300022: Cube.013
+    2300024: Cylinder
+    2300026: Cylinder.001
+    2300028: Group1
+    2300030: Porte
+    2300032: Porte.001
+    2300034: Porte.002
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cube.006
+    3300010: Cube.007
+    3300012: Cube.008
+    3300014: Cube.009
+    3300016: Cube.010
+    3300018: Cube.011
+    3300020: Cube.012
+    3300022: Cube.013
+    3300024: Cylinder
+    3300026: Cylinder.001
+    3300028: Group1
+    3300030: Porte
+    3300032: Porte.001
+    3300034: Porte.002
+    4300000: Group1
+    4300002: Cube
+    4300004: Cube.001
+    4300006: Cube.002
+    4300008: Cube.007
+    4300010: Cube.008
+    4300012: Cube.009
+    4300014: Cube.006
+    4300016: Cube.010
+    4300018: Cube.011
+    4300020: Cube.012
+    4300022: Cylinder
+    4300024: Cylinder.001
+    4300026: Porte
+    4300028: Porte.001
+    4300030: Porte.002
+    4300032: Cube.013
+    4300034: Cube.003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Abajour
+    second: {fileID: 2100000, guid: c98bf5a430c273945bce8774130c4e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ampoule1
+    second: {fileID: 2100000, guid: 39f08051297f3be469e4134ded5ce807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ampoule2
+    second: {fileID: 2100000, guid: 1c2748b7b634d6a44b642f37f4199b7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bar1
+    second: {fileID: 2100000, guid: dd88185adf068a749be3ad0c12cc340c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bar2
+    second: {fileID: 2100000, guid: 08dd4eddb5e5e1f4da946485feaeaeae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bas_Murs
+    second: {fileID: 2100000, guid: 2f9d368aa3a275140bb48ce0cb4fe161, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cadre_Fenetre
+    second: {fileID: 2100000, guid: 73fc58d3101c9c44989a6b3cd717b89e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CommodeBois
+    second: {fileID: 2100000, guid: 8d5b198a91949b64384e8db7f4dc70a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Embrasure
+    second: {fileID: 2100000, guid: 919318f6bafd99148933b4626fcc5ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grille_Fenetre
+    second: {fileID: 2100000, guid: 394abd88b99d47e4a8f25ed0faa94f79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Lampe_R\xE9ceptacle"
+    second: {fileID: 2100000, guid: 17b8604708292b24e9e3546e538a929d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Murs
+    second: {fileID: 2100000, guid: 98f16a5d81e03074facceb4fcde671b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 054962aea563bca4f8125e224a03d608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plafond
+    second: {fileID: 2100000, guid: a1cfa7bb82e24a94ba583b1cf660c4ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poignee Porte
+    second: {fileID: 2100000, guid: 59af084eeea41df478ac0080f8f41c18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porte2
+    second: {fileID: 2100000, guid: 01e9fcdd2949e1f4d92a38fd88746d31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porte_Cadre
+    second: {fileID: 2100000, guid: ba1f927f97c28d743a835ff03636329d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol
+    second: {fileID: 2100000, guid: 923c8ab3eec83fc4fb66e229748e0427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vitre
+    second: {fileID: 2100000, guid: a982c8e2fdec91b468f2e6ad448fc322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: 2b0ae543f614bc04793bf843326c16b8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 60
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
